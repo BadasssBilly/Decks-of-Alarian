@@ -1,0 +1,1683 @@
+fileFormatVersion: 2
+guid: 308d84cf2359f234bb2053d6fcb156fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2644961864653139186
+    second: Big Tile set nuit_0
+  - first:
+      213: 5626793433112346327
+    second: Big Tile set nuit_1
+  - first:
+      213: -1554340582090042189
+    second: Big Tile set nuit_2
+  - first:
+      213: -3671297252187403418
+    second: Big Tile set nuit_3
+  - first:
+      213: 1259454662095963305
+    second: Big Tile set nuit_4
+  - first:
+      213: -8323605506662446270
+    second: Big Tile set nuit_5
+  - first:
+      213: 4036841204437425495
+    second: Big Tile set nuit_6
+  - first:
+      213: -2154500113131522375
+    second: Big Tile set nuit_7
+  - first:
+      213: -4924596700348093639
+    second: Big Tile set nuit_8
+  - first:
+      213: 2291886923278372744
+    second: Big Tile set nuit_9
+  - first:
+      213: -2951449387981477800
+    second: Big Tile set nuit_10
+  - first:
+      213: -1354165214956313638
+    second: Big Tile set nuit_11
+  - first:
+      213: 5027727503499673981
+    second: Big Tile set nuit_12
+  - first:
+      213: -6937797115580626589
+    second: Big Tile set nuit_13
+  - first:
+      213: 7346808223102387974
+    second: Big Tile set nuit_14
+  - first:
+      213: 5935102681383827678
+    second: Big Tile set nuit_15
+  - first:
+      213: 3780525012222139194
+    second: Big Tile set nuit_16
+  - first:
+      213: -685686389159309905
+    second: Big Tile set nuit_17
+  - first:
+      213: -862682486034481447
+    second: Big Tile set nuit_18
+  - first:
+      213: -9146560993661352360
+    second: Big Tile set nuit_19
+  - first:
+      213: -6710156436673135270
+    second: Big Tile set nuit_20
+  - first:
+      213: -3247163929043891363
+    second: Big Tile set nuit_21
+  - first:
+      213: 4839517330843638950
+    second: Big Tile set nuit_22
+  - first:
+      213: -5927338685032627529
+    second: Big Tile set nuit_23
+  - first:
+      213: -3067519105548603222
+    second: Big Tile set nuit_24
+  - first:
+      213: 30009109401931981
+    second: Big Tile set nuit_25
+  - first:
+      213: -407052622498978218
+    second: Big Tile set nuit_26
+  - first:
+      213: 8161996839091494679
+    second: Big Tile set nuit_27
+  - first:
+      213: 4999008513922446319
+    second: Big Tile set nuit_28
+  - first:
+      213: 1057059756645379384
+    second: Big Tile set nuit_29
+  - first:
+      213: -3222302210864305958
+    second: Big Tile set nuit_30
+  - first:
+      213: 2239395897977629989
+    second: Big Tile set nuit_31
+  - first:
+      213: 1182092386899753095
+    second: Big Tile set nuit_32
+  - first:
+      213: 5411764332400088479
+    second: Big Tile set nuit_33
+  - first:
+      213: 49520119390272111
+    second: Big Tile set nuit_34
+  - first:
+      213: -2394057082950522533
+    second: Big Tile set nuit_35
+  - first:
+      213: 3498527697592079931
+    second: Big Tile set nuit_36
+  - first:
+      213: -8550496879476997419
+    second: Big Tile set nuit_37
+  - first:
+      213: -7788931196331623214
+    second: Big Tile set nuit_38
+  - first:
+      213: 7824647696546696104
+    second: Big Tile set nuit_39
+  - first:
+      213: 1188412671799727066
+    second: Big Tile set nuit_40
+  - first:
+      213: 549928688640488676
+    second: Big Tile set nuit_41
+  - first:
+      213: -4953667733681525590
+    second: Big Tile set nuit_42
+  - first:
+      213: 8676217341168806542
+    second: Big Tile set nuit_43
+  - first:
+      213: -7429922697512009034
+    second: Big Tile set nuit_44
+  - first:
+      213: -2769274816798853482
+    second: Big Tile set nuit_45
+  - first:
+      213: -3968721559669284708
+    second: Big Tile set nuit_46
+  - first:
+      213: 6617002103747691190
+    second: Big Tile set nuit_47
+  - first:
+      213: -1073248226852138286
+    second: Big Tile set nuit_48
+  - first:
+      213: -6326249556239979529
+    second: Big Tile set nuit_49
+  - first:
+      213: 4391590434952731213
+    second: Big Tile set nuit_50
+  - first:
+      213: -6219201713414685525
+    second: Big Tile set nuit_51
+  - first:
+      213: 9184846572096982974
+    second: Big Tile set nuit_52
+  - first:
+      213: 6900725054297800257
+    second: Big Tile set nuit_53
+  - first:
+      213: 7951158863323225452
+    second: Big Tile set nuit_54
+  - first:
+      213: -4720525353365460626
+    second: Big Tile set nuit_55
+  - first:
+      213: -5306891305099299629
+    second: Big Tile set nuit_56
+  - first:
+      213: -502065341454918017
+    second: Big Tile set nuit_57
+  - first:
+      213: -936766833242730510
+    second: Big Tile set nuit_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big Tile set nuit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0315ec92353b4bd0800000000000000
+      internalID: -2644961864653139186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 335
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de792db0d2661e40800000000000000
+      internalID: 5626793433112346327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49c80d97fdd6ae0800000000000000
+      internalID: -1554340582090042189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 278
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b808ab99eec0dc0800000000000000
+      internalID: -3671297252187403418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 207
+        width: 257
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a480f0a75b7a7110800000000000000
+      internalID: 1259454662095963305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b46ec54ec9c7c80800000000000000
+      internalID: -8323605506662446270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1725ffadb50830800000000000000
+      internalID: 4036841204437425495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 319
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6b148ef8da912e0800000000000000
+      internalID: -2154500113131522375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93be0b5846158abb0800000000000000
+      internalID: -4924596700348093639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fce57830b6ecf10800000000000000
+      internalID: 2291886923278372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 305
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858e1d84b685a07d0800000000000000
+      internalID: -2951449387981477800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 304
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a65369e9053de0800000000000000
+      internalID: -1354165214956313638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d714f81c68316c540800000000000000
+      internalID: 5027727503499673981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 304
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369461a084ef7bf90800000000000000
+      internalID: -6937797115580626589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607cfe2672b15f560800000000000000
+      internalID: 7346808223102387974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f9557178bd5250800000000000000
+      internalID: 5935102681383827678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bdaf1f77f177430800000000000000
+      internalID: 3780525012222139194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc6daacd3fb76f0800000000000000
+      internalID: -685686389159309905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 295
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb6f189d22704f0800000000000000
+      internalID: -862682486034481447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 291
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8560f50ac33e01180800000000000000
+      internalID: -9146560993661352360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 288
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dfbc4d54cb0e2a0800000000000000
+      internalID: -6710156436673135270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b80e95c91cfe2d0800000000000000
+      internalID: -3247163929043891363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac184d1f5b692340800000000000000
+      internalID: 4839517330843638950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2033fcedcddbda0800000000000000
+      internalID: -5927338685032627529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa03d0c30abfd65d0800000000000000
+      internalID: -3067519105548603222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc09de1402d9a6000800000000000000
+      internalID: 30009109401931981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ae07ebcbd95af0800000000000000
+      internalID: -407052622498978218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 271
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fd8eb81ec354170800000000000000
+      internalID: 8161996839091494679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3308de1cb006540800000000000000
+      internalID: 4999008513922446319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 271
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d65358f3e6bae00800000000000000
+      internalID: 1057059756645379384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad82a7236351843d0800000000000000
+      internalID: -3222302210864305958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6c6254bee31f10800000000000000
+      internalID: 2239395897977629989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887adc43c2a76010800000000000000
+      internalID: 1182092386899753095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9516d0dcf27a1b40800000000000000
+      internalID: 5411764332400088479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6afd75494eefa000800000000000000
+      internalID: 49520119390272111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 240
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e9be64c996ced0800000000000000
+      internalID: -2394057082950522533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 207
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3657dba7644d8030800000000000000
+      internalID: 3498527697592079931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 239
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d200bdf368865980800000000000000
+      internalID: -8550496879476997419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf1be285828e390800000000000000
+      internalID: -7788931196331623214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_39
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8e3d8f9bb69c60800000000000000
+      internalID: 7824647696546696104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 166
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3123d47071e7010800000000000000
+      internalID: 1188412671799727066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4763a8a3db1a700800000000000000
+      internalID: 549928688640488676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac299e1179014bb0800000000000000
+      internalID: -4953667733681525590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 167
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a637604bd186870800000000000000
+      internalID: 8676217341168806542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b24f2a0cac93e890800000000000000
+      internalID: -7429922697512009034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 186
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f443f93f8199d0800000000000000
+      internalID: -2769274816798853482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 193
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c906a77c4c44ce8c0800000000000000
+      internalID: -3968721559669284708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c4efda5054db50800000000000000
+      internalID: 6617002103747691190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d219aa8c6e0b11f0800000000000000
+      internalID: -1073248226852138286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 197
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe7d7eb85a438a0800000000000000
+      internalID: -6326249556239979529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a5c52ab3012fc30800000000000000
+      internalID: 4391590434952731213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 176
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacba6d0ef4f0b9a0800000000000000
+      internalID: -6219201713414685525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf0e4e3b41277f70800000000000000
+      internalID: 9184846572096982974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14efe0210ec44cf50800000000000000
+      internalID: 6900725054297800257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5411fbd0385e60800000000000000
+      internalID: 7951158863323225452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e692d6793335d7eb0800000000000000
+      internalID: -4720525353365460626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d472f1a9722a56b0800000000000000
+      internalID: -5306891305099299629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e5b846b3e4809f0800000000000000
+      internalID: -502065341454918017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Tile set nuit_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff0333478feff2f0800000000000000
+      internalID: -936766833242730510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
