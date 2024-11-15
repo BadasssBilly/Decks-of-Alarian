@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ab117803790f0c941bd3fbed77ea90ec
+guid: 74ba26b0cf3ab364f82e3dd907430a90
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -26,6 +26,12 @@ TextureImporter:
   - first:
       213: -561090448583990179
     second: Slime animation saut_7
+  - first:
+      213: -9217991485750473202
+    second: Slime animation saut_8
+  - first:
+      213: -1204047427200025008
+    second: Slime animation saut_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -215,12 +221,12 @@ TextureImporter:
       name: Slime animation saut_0
       rect:
         serializedVersion: 2
-        x: 67
-        y: 22
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 16
+        y: 0
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -237,12 +243,12 @@ TextureImporter:
       name: Slime animation saut_1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 37
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 64
+        y: 0
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,12 +265,12 @@ TextureImporter:
       name: Slime animation saut_2
       rect:
         serializedVersion: 2
-        x: 99
-        y: 19
-        width: 11
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 112
+        y: 0
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -281,12 +287,12 @@ TextureImporter:
       name: Slime animation saut_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 160
         y: 0
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -303,12 +309,12 @@ TextureImporter:
       name: Slime animation saut_4
       rect:
         serializedVersion: 2
-        x: 16
+        x: 208
         y: 0
-        width: 15
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -325,12 +331,12 @@ TextureImporter:
       name: Slime animation saut_5
       rect:
         serializedVersion: 2
-        x: 32
+        x: 256
         y: 0
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -347,12 +353,12 @@ TextureImporter:
       name: Slime animation saut_6
       rect:
         serializedVersion: 2
-        x: 49
-        y: 3
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 304
+        y: 0
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -365,33 +371,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Slime animation saut_7
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 3
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d546945b53b9638f0800000000000000
-      internalID: -561090448583990179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 683cc1a98399db84ab25c9f9a90fbae5
+    spriteID: 5287094bb2d1859458c4568953cd5e56
     internalID: 0
     vertices: []
     indices: 
@@ -408,7 +392,6 @@ TextureImporter:
       Slime animation saut_4: -8549248685009783008
       Slime animation saut_5: 5615911295317152010
       Slime animation saut_6: 5481558082726398088
-      Slime animation saut_7: -561090448583990179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
